@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2.1 Using Node.iml" filepath="$PROJECT_DIR$/.idea/2.1 Using Node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2.2 Native Modules/.idea/2.2 Native Modules.iml" filepath="$PROJECT_DIR$/../2.2 Native Modules/.idea/2.2 Native Modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2.3 NPM/.idea/2.3 NPM.iml" filepath="$PROJECT_DIR$/../2.3 NPM/.idea/2.3 NPM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2.4 QR Code Project/.idea/2.4 QR Code Project.iml" filepath="$PROJECT_DIR$/../2.4 QR Code Project/.idea/2.4 QR Code Project.iml" />
+    </modules>
+  </component>
+</project>

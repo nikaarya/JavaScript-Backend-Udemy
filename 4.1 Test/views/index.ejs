@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Test</title>
+</head>
+<body>
+
+<h1>
+    Welcome
+</h1>
+<p>
+<% if(locals.names) { %>
+    <ul>
+    <% for(let i = 0; i < names.length; i++) { %>
+        <li>
+            <%= names[i] %>
+        </li>
+        <% } %>
+    </ul>
+<% } %>
+</p>
+
+
+</body>
+</html>
